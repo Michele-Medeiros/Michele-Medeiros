@@ -1,2 +1,1 @@
-Oi
-olá
+Sou uma estudante de Mídias Digitais e Análise e Desenvolvimentos de sistemas, de 23 anos, apaixonada por gestão e tecnologia. Encontrei na área de TI algo que me instiga e me desafia. Busco frequentemente explorar novas áreas, e me desafiar . Ano passado participei do Hackatruck na UFPB e este ano passei 6 meses na Universidade de Trás-os-Montes em Portugal. De volta ao Brasil, busco por uma oportunidade para poder ingressar no mercado de trabalho e colocar meus conhecimentos em prática.
